@@ -1,0 +1,24 @@
+{
+    "qnn": {
+        "core": {
+            "bin_threshold": 0.5
+        },
+        "params": [
+            "Train",
+            "Classify"
+        ],
+        "data": {
+            "allowed": [".png"],
+            "dir": "Data",
+            "dir_test": "Data/Test",
+            "dir_train": "Data/Train",
+            "dim": 4,
+            "seed": 17
+        },
+        "train": {
+            "batch_size": 30,
+            "epochs": 3,
+            "verbose": 1
+        }
+    }
+}
