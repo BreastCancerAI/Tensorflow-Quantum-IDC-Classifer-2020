@@ -4,18 +4,6 @@
 
 [![GeniSysAI Server](../../Media/Images/banner.png)](https://github.com/BreastCancerAI/Tensorflow-Quantum-IDC-Classifer-2020)
 
-# Installation & setup
-Here you will find all of the required setup steps to get all required packages installed.
-
-## Quick install
-You can follow the installation steps manually on this page, or you can use the "quick install" scripts provided. To do a quick install, navigate to the project root and use the following command:
-
-```
-sh Scripts/Installation/Shell/Install.sh
-```
-
-&nbsp;
-
 # Clone the repository
 
 Clone the [Tensorflow-Quantum-IDC-Classifer-2020](https://github.com/BreastCancerAI/Tensorflow-Quantum-IDC-Classifer-2020 "Tensorflow-Quantum-IDC-Classifer-2020") repository from the [Peter Moss Acute Myeloid & Lymphoblastic COVID-19 AI Research Project](https://github.com/BreastCancerAI "Breast Cancer AI Research Project") Github Organization.
@@ -32,6 +20,18 @@ Once you have used the command above you will see a directory called **Tensorflo
 
 ## Developer Forks
 Developers from the Github community that would like to contribute to the development of this project should first create a fork, and clone that repository. For detailed information please view the [CONTRIBUTING](https://github.com/BreastCancerAI/Tensorflow-Quantum-IDC-Classifer-2020/blob/master/CONTRIBUTING.md "CONTRIBUTING") guide.
+
+&nbsp;
+
+# Installation & setup
+Here you will find all of the required setup steps to get all required packages installed.
+
+## Quick install
+You can follow the installation steps manually on this page, or you can use the "quick install" scripts provided. To do a quick install, navigate to the project root and use the following command:
+
+```
+sh Scripts/Installation/Shell/Install.sh
+```
 
 &nbsp;
 
